@@ -33,5 +33,6 @@
   		<button data-number>0</button>
   		<button class="span-2" data-equals>=</button>
   	</div>
+     <script src="style.css">   </script> 
   </body>
 </html>
